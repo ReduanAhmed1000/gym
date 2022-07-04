@@ -118,3 +118,53 @@ span{
      color: plum;
 
 }
+
+.div5 p{
+
+  text-align: center;
+
+}
+
+.div5 small{
+    
+    text-align: center;
+
+}
+
+
+.div6{
+
+    display: flex;
+
+}
+
+
+.in-div1 img{
+
+      width: 100%;
+      height: 600px;
+      margin: 10px;
+      padding-right: 10px;
+}
+
+.in-div2 img{
+
+    width: 100%;
+    height: 600px;
+    margin: 10px;
+    padding-left: 10px;
+
+}
+
+
+.in-div1 p{
+
+     padding: 10px;
+
+}
+
+.in-div2 p{
+
+    padding: 10px;
+
+}
