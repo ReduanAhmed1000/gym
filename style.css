@@ -1,0 +1,72 @@
+body{
+
+     margin: 0%;
+     padding: 0%;
+
+}
+
+
+.sec1{
+
+  display: flex;
+  background-image: url(wall.jpeg);
+  margin-bottom: none;
+  position: absolute;
+  margin: 10px;
+
+}
+
+
+.div2 img{
+
+    width: 500px;
+    padding: 20px;
+    border-radius: 40%;
+    position: relative;
+    top: 9%;
+
+}
+
+.div2{
+
+   width: 50%;
+   margin: 10px;
+}
+
+.div1{
+
+ width: 50%;   
+ padding: 10px;
+ margin: 10px;
+
+}
+
+span{
+
+   color: gold;
+
+}
+
+.div1 p {
+ 
+    color: navy;
+
+}
+
+.div1 h3{
+
+ color: navy;
+
+}
+
+.div1 a{
+
+     background-color: navy;
+     width: 80px;
+     height: 50px;
+     padding: 10px;
+     color: white;
+     text-decoration: none;
+     border-radius: 10px;
+}
+
