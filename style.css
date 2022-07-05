@@ -168,3 +168,89 @@ span{
     padding: 10px;
 
 }
+
+.sec4{
+
+ display: flex;
+ background-color: brown;
+ padding-top: 20px;
+ padding-left: 25px;
+ padding-bottom: 20px;
+ padding: 20px;
+ border-radius: 10px;
+ margin: 10px;
+ 
+ justify-content: center;
+
+}
+
+.div7 h4 {
+  
+   text-align: center;
+   padding: 10px;
+   color: white;
+
+}
+
+.div8 h4{
+  
+    text-align: center;
+    padding: 10px;
+    color: white;
+ 
+ }
+
+ .div9 h4{
+  
+    text-align: center;
+    padding: 10px;
+    color: white;
+ 
+ }
+
+ .div7{
+
+     width: 25%;
+
+ }
+
+ .div8{
+
+    width: 25%;
+
+}
+.div9{
+
+    width: 25%;
+
+}
+
+.div7 small{
+
+   color: white;
+
+}
+
+.div8 small{
+
+color: white;
+    
+}
+
+.div9 small{
+
+color: white;
+    
+}
+
+footer{
+
+    text-align: center;
+    background-color: black;
+
+}
+
+footer p{
+
+    color: white;
+}
